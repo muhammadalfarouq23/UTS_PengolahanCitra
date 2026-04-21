@@ -179,10 +179,9 @@ else:                            # Default: Matang
 
 ## 👤 Author
 
-**Mohammad Fakhriza M**
-**Muhammad Aulia Al Farouq**
-NIM: 234311018  
-NIM: 234311020
+**Mohammad Fakhriza M NIM: 234311018**
+**Muhammad Aulia Al Farouq NIM: 234311020**
+
 Program Studi Teknologi Rekayasa Perangkat Lunak  
 Politeknik Negeri Madiun  
 
